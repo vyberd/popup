@@ -69,3 +69,7 @@
 		height: 100%;
 	}
 }
+
+.popup button {
+	width: unset;
+}
